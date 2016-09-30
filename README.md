@@ -5,9 +5,9 @@
 
 这个仓库可以做的事
 
-- 贴代码，感兴趣的同学可以学一下[git][http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000]玩一玩
+- 贴代码，感兴趣的同学可以学一下[git] (http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) 玩一玩
 
-- [issue][https://github.com/zhang-2qi/EE-51/issues]是供大家讨论的。比如说感觉这上面的算法不够好，有更好的算法之类的都可以在上面提出来
+- [issue] [https://github.com/zhang-2qi/EE-51/issues] 是供大家讨论的。比如说感觉这上面的算法不够好，有更好的算法之类的都可以在上面提出来
 
 - 还有一些好玩的东西 eg  ;·)
 
