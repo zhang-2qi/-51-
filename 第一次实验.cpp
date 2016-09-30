@@ -6,7 +6,7 @@ using namespace std;
 
 bool fenjie(int i,int* m,int* length)
 {   
-	//int flag=1;
+	////int flag=1;
 	int n=0;
 	int q=2;
 	int pre=0;
