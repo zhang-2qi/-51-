@@ -1,5 +1,6 @@
 //written by 张洪源-EE-51
 //time:628 ms 	memory:4128 KiB
+//bug是潜意识中认为卡麦克尔数因子一定是素因子
 #include<iostream>
 #pragma warning(disable:4996)
 #include<cstdio>
