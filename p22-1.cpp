@@ -6,7 +6,7 @@
 using namespace std;
 bool h(int n,bool* q)    // 判断是不是卡迈克尔数
 {
-	//bool f(int n);
+	
 	int i,m,a,b,j=0;
 	bool k=0;
 	a=m=n;
