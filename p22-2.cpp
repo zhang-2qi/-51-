@@ -1,3 +1,6 @@
+//written by unknown
+//time:584 ms memory:5768 KiB
+//bug是没有判定互素后就直接乘方
 #include<stdio.h>  
 #include<iostream>  
 #include<memory.h>  
