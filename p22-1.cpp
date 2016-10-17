@@ -1,13 +1,12 @@
-//written by ÕÅºéÔ´-EE-51
+//written by å¼ æ´ªæº-EE-51
 //time:628 ms 	memory:4128 KiB
-//bugÊÇÇ±ÒâÊ¶ÖĞÈÏÎª¿¨Âó¿Ë¶ûÊıÒò×ÓÒ»¶¨ÊÇËØÒò×Ó
 #include<iostream>
 #pragma warning(disable:4996)
 #include<cstdio>
 using namespace std;
-bool h(int n,bool* q)    // ÅĞ¶ÏÊÇ²»ÊÇ¿¨Âõ¿Ë¶ûÊı
+bool h(int n,bool* q)    // åˆ¤æ–­æ˜¯ä¸æ˜¯å¡è¿ˆå…‹å°”æ•°
 {
-	//bool f(int n);
+	
 	int i,m,a,b,j=0;
 	bool k=0;
 	a=m=n;
@@ -29,7 +28,7 @@ bool h(int n,bool* q)    // ÅĞ¶ÏÊÇ²»ÊÇ¿¨Âõ¿Ë¶ûÊı
 }
 int main()
 {  
-	//ÓÃËØÊıÉ¸ÕÒµ½ËùÓĞËØÊı
+	//ç”¨ç´ æ•°ç­›æ‰¾åˆ°æ‰€æœ‰ç´ æ•°
 	bool* a=new bool[1000001];
 	int ii=0;
 	for(;ii<99997;ii++)
