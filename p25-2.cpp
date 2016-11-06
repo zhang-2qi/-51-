@@ -27,7 +27,7 @@ public:
 };
 
 
-class mystack //用模拟栈的方式来省时间
+class mystack //用模拟栈的方式来省时间，由于树结构已经建好，因此每次只存指针
 {
 private:
 	Node* top;

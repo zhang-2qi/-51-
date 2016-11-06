@@ -6,7 +6,7 @@ struct TNode{
 	int key[2];
 	TNode *left,*right;
 };
-void Insert(TNode **p,int key[2],int level)
+void Insert(TNode **p,int key[2],int level)//插入，注意根据节点而分叉
 	{   TNode* p1;
 		//TNode* p2=p1;
 		if(*p==NULL)
@@ -16,7 +16,7 @@ void Insert(TNode **p,int key[2],int level)
         else
             Insert(&((*p)->right),key,1-level);
 }
-void Range(int low[2],int high[2],TNode **p,int level,int &t)
+void Range(int low[2],int high[2],TNode **p,int level,int &t)//查找，注意根据二叉树性质可以减少便利次数
 	{TNode* p1=*p;
 		if(p1)
 	    {
